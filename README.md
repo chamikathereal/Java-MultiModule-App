@@ -6,6 +6,11 @@ This repository contains a simple Java EE multi-module application using **EJB**
 
 ---
 
+## 📽️ Demo Video
+[![Java RMI Project Demo](https://github.com/chamikathereal/Java-MultiModule-App/blob/main/Java-MultiModule-App.png)](https://youtu.be/wyZckJSypLc)
+
+---
+
 ## 📁 Project Structure
 
 ```
